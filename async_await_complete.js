@@ -7,9 +7,9 @@ async function displayMessage () {
     const data = await response.json();
     const messageElm = document.getElementById('message');
     messageElm.innerHTML = data.message;
-    console.log('終了');
+    console.log('処理2');
 };
 
-console.log('開始前');
+console.log('処理1');
 displayMessage();
-console.log('開始後');
+console.log('処理3');
