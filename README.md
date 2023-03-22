@@ -9,7 +9,7 @@
 #### `git pull`の実施
 
 
-#### `npm i http-server`の実施
+#### `npm i http-server -g`の実施
 
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/77530916/216873375-8e9d817c-b740-4e74-8470-e4db57fdddce.png">
 
