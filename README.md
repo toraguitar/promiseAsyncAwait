@@ -6,6 +6,8 @@
 
 `homebrew`, `nodenv`を用いたインストールが無難です。
 
+version: v16.14.0
+
 #### `git pull`の実施
 
 
